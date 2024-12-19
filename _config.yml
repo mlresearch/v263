@@ -1,6 +1,6 @@
 ---
 year: '2024'
-booktitle: Proceedings of The Workshop on Classifier Learning from Difficult Data
+booktitle: Proceedings of The Workshop on Classifier Learning from Difficult Data at ECAI 2024
 volume: '263'
 shortname: CLD2
 start: &1 2024-10-19
@@ -26,7 +26,7 @@ editor:
   family: Minku
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of The Workshop on Classifier Learning from Difficult Data
+  Proceedings of The Workshop on Classifier Learning from Difficult Data at ECAI 2024
     Held in Santiago de Compostella, Spain on 19-20 October 2024
 
   Published as Volume 263 by the Proceedings of Machine Learning Research on 21 October 2024.
@@ -71,7 +71,7 @@ volume_type: Volume
 volume_dir: v263
 email: ''
 conference:
-  name: Classifier Learning from Difficult Data
+  name: Classifier Learning from Difficult Data, workshop organized during European Conference on Artificial Intelligence ECAI 2024
   url: https://cldd.kssk.pwr.edu.pl
   location: Santiago de Compostella, Spain
   dates:
