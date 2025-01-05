@@ -46,7 +46,7 @@
 }
 @inproceedings{hergert24,
 	title        = {Detecting Noisy Labels Using Early Stopped Models},
-	author       = {Hergert Lea and Jelasity, Mark},
+	author       = {Hergert, Lea and Jelasity, Mark},
 	pages        = {40--47},
 	abstract     = {We are concerned with the problem of identifying samples with noisy labels in a given dataset. Using the predictions of a well-generalizing model to flag incorrectly predicted labels as noisy is a known method but it is not considered competitive. At the same time, it has been observed recently that gradient descent fits clean samples first, and the noisy samples are memorized later. Inspired by related theoretical results, we revisit the idea of using the predictions of an early stopped model to classify samples as noisy or clean. We offer two key improvements that allow this strikingly simple approach to outperform some well-known methods. First, we use the model over its own training set to directly exploit the so-called clean priority learning phenomenon. Second, we use an ensemble of model check points around the early stopping point to reduce the variance of the predictions. We also introduce a novel method that makes use of the same early stopped model ensemble, but classifies samples based on the per-sample gradient of the loss, motivated by recent theoretical results on clean priority learning. Our approaches only passively observe a normal training run and collect checkpoints. No extra input samples are added, no thresholds are tuned, and no pre-trained models are used. Through empirical evaluations, we demonstrate that our methods are competitive with other approaches from related work for both detecting noisy samples and for noise-filtered training.}
 }
