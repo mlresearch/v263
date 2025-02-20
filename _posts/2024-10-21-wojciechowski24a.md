@@ -1,5 +1,5 @@
 ---
-title: "$F_Β$-plot - a visual tool for evaluationg imabalnced data classifiers"
+title: "$F_{\beta}$-plot - a visual tool for evaluating imbalanced data classifiers"
 abstract: Imbalanced data classification suffers from a lack of reliable metrics.
   This runs primarily from the fact that for most real-life (and commonly used benchmark)
   problems, we do not have information from the user on the actual form of the loss
@@ -22,7 +22,7 @@ publisher: PMLR
 issn: 2640-3498
 id: wojciechowski24a
 month: 0
-tex_title: "$F_Β$-plot - a visual tool for evaluationg imabalnced data classifiers"
+tex_title: "$F_{\beta}$-plot - a visual tool for evaluating imbalanced data classifiers"
 firstpage: 25
 lastpage: 31
 page: 25-31
