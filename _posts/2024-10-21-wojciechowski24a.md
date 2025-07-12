@@ -22,7 +22,7 @@ publisher: PMLR
 issn: 2640-3498
 id: wojciechowski24a
 month: 0
-tex_title: "$F_{\beta}$-plot - a visual tool for evaluating imbalanced data classifiers"
+tex_title: "$F_{\\beta}$-plot - a visual tool for evaluating imbalanced data classifiers"
 firstpage: 25
 lastpage: 31
 page: 25-31
