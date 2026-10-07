@@ -3,7 +3,7 @@ year: '2024'
 booktitle: Proceedings of the ECAI 2024 Workshop on Classifier Learning from Difficult Data
 volume: '263'
 shortname: CLD2
-start: &1 2024-10-19
+start: 2024-10-19
 end: 2024-10-20
 published: 2024-10-21
 layout: proceedings
@@ -75,7 +75,7 @@ conference:
   url: https://cldd.kssk.pwr.edu.pl
   location: Santiago de Compostella, Spain
   dates:
-  - *1
+  - 2024-10-19
   - 2024-10-20
 analytics:
   google:
